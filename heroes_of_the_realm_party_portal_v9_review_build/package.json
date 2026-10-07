@@ -1,0 +1,12 @@
+{
+  "name": "heroes-of-the-realm-dnd-portal",
+  "version": "9.0.0",
+  "private": true,
+  "description": "Live collaborative D&D campaign codex with Admin, Trusted Player and Player roles",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

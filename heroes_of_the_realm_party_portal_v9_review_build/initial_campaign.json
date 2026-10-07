@@ -1,0 +1,3855 @@
+{
+  "version": 9,
+  "records": [
+    {
+      "id": "id-muqkfyo2-px7aas3",
+      "type": "npc",
+      "title": "Aldrin",
+      "subtitle": "Leader of the Black Seal",
+      "image": "",
+      "fields": {
+        "knownFor": "Leader of the Black Seal. He summoned and tested the party at the Gilded Lantern.",
+        "appearance": "",
+        "goal": "Assess and employ the party for dangerous work.",
+        "history": "",
+        "secret": "Add Aldrin’s hidden motives and campaign truths here.",
+        "relationships": "Mara — connected to the Gilded Lantern operation.",
+        "loot": "",
+        "notes": ""
+      },
+      "meta": {
+        "status": "Alive",
+        "disposition": "Neutral",
+        "role": "Black Seal leader",
+        "location": "Kingdom of Unity"
+      },
+      "tags": [
+        "Black Seal",
+        "Session 1"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "id-muqkfyo2-y4nz2tx",
+      "type": "npc",
+      "title": "Mara",
+      "subtitle": "Bartender of the Gilded Lantern",
+      "image": "",
+      "fields": {
+        "knownFor": "She knew the party was coming but did not know why.",
+        "appearance": "",
+        "goal": "Survive the attention surrounding the Gilded Lantern.",
+        "history": "",
+        "secret": "Add why the Icebound Clan wanted Mara here.",
+        "relationships": "Aldrin — known connection, details unclear.",
+        "loot": "",
+        "notes": ""
+      },
+      "meta": {
+        "status": "Alive",
+        "disposition": "Friendly",
+        "role": "Bartender",
+        "location": "Gilded Lantern"
+      },
+      "tags": [
+        "Session 1"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "id-muqkfyo2-v690ccv",
+      "type": "pc",
+      "title": "Tharo Vael",
+      "subtitle": "Shadar-kai agent of Ravenspire",
+      "image": "",
+      "fields": {
+        "knownFor": "Tied to House Vaelmont and Ravencraft.",
+        "appearance": "",
+        "goal": "",
+        "history": "",
+        "secret": "Track the stolen Orb scroll and archive secrets here.",
+        "relationships": "House Vaelmont",
+        "inventory": "",
+        "notes": ""
+      },
+      "meta": {
+        "status": "Alive",
+        "ancestry": "Shadar-kai",
+        "role": "",
+        "location": "Ravenspire"
+      },
+      "tags": [
+        "House Vaelmont",
+        "Ravencraft"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "id-muqkfyo2-saaogb2",
+      "type": "pc",
+      "title": "Bob",
+      "subtitle": "Warforged artificer",
+      "image": "",
+      "fields": {
+        "knownFor": "Warforged artificer with ancient runes and hidden integrated body parts.",
+        "appearance": "Electrum-steel plates with layered sigils and a samurai-tile silhouette.",
+        "goal": "",
+        "history": "",
+        "secret": "Track the meaning of Bob’s runes and his origin here.",
+        "relationships": "",
+        "inventory": "Collapsible glaive and integrated gadgets.",
+        "notes": ""
+      },
+      "meta": {
+        "status": "Alive",
+        "ancestry": "Warforged",
+        "role": "Artificer"
+      },
+      "tags": [
+        "Runes"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "id-muqkfyo2-nqumb15",
+      "type": "pc",
+      "title": "Rook",
+      "subtitle": "Paladin of Caelion",
+      "image": "",
+      "fields": {
+        "knownFor": "A paladin with noble ties and the colours of Caelion.",
+        "appearance": "Silvered steel armour, white cloth and restrained gold.",
+        "goal": "",
+        "history": "",
+        "secret": "Track her noble-house conflict and oath story here.",
+        "relationships": "",
+        "inventory": "Longsword and shield bearing Caelion’s symbol.",
+        "notes": ""
+      },
+      "meta": {
+        "status": "Alive",
+        "ancestry": "Human",
+        "role": "Paladin"
+      },
+      "tags": [
+        "Caelion"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "id-muqkfyo2-b64b858",
+      "type": "pc",
+      "title": "Ulric",
+      "subtitle": "Monster hunter",
+      "image": "",
+      "fields": {
+        "knownFor": "Hunting a dangerous Corpse Eater.",
+        "appearance": "",
+        "goal": "Find and destroy the Corpse Eater.",
+        "history": "",
+        "secret": "Track the Corpse Eater storyline and future consequences here.",
+        "relationships": "",
+        "inventory": "",
+        "notes": ""
+      },
+      "meta": {
+        "status": "Alive",
+        "role": "Hunter"
+      },
+      "tags": [
+        "Corpse Eater"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "id-muqkfyo2-ai2ydzk",
+      "type": "pc",
+      "title": "Eira",
+      "subtitle": "Late-arriving recipient of the summons",
+      "image": "",
+      "fields": {
+        "knownFor": "Received a Black Seal letter but missed the original meeting.",
+        "appearance": "",
+        "goal": "",
+        "history": "",
+        "secret": "Tharo sent his raven asking her to meet at the Gilded Lantern; he does not know she also received a Black Seal letter.",
+        "relationships": "Tharo — contact through his raven.",
+        "inventory": "",
+        "notes": ""
+      },
+      "meta": {
+        "status": "Alive"
+      },
+      "tags": [
+        "Black Seal"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "id-muqkfyo2-kbl03cb",
+      "type": "faction",
+      "title": "The Black Seal",
+      "subtitle": "Independent agents working for the Crown",
+      "image": "",
+      "fields": {
+        "knownFor": "A group that works for the Crown of Unity without being directly part of the government.",
+        "goal": "Handle work the Crown cannot or does not want to handle openly.",
+        "feature": "Uses green wax seals with a golden lotus.",
+        "leadership": "Aldrin",
+        "members": "",
+        "secret": "Add the deeper truth of the Black Seal here.",
+        "relations": "Works for the Crown of Unity while retaining operational independence.",
+        "notes": ""
+      },
+      "meta": {
+        "size": "Unknown",
+        "disposition": "Neutral",
+        "category": "Covert organisation",
+        "headquarters": "Unknown",
+        "status": "Active"
+      },
+      "tags": [
+        "Crown of Unity"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "id-muqkfyo2-ok0b9s8",
+      "type": "location",
+      "title": "The Gilded Lantern",
+      "subtitle": "Tavern where the party first met",
+      "image": "",
+      "fields": {
+        "knownFor": "The meeting place chosen for the party’s first Black Seal test.",
+        "appearance": "",
+        "landmarks": "Main tavern floor and bar.",
+        "culture": "",
+        "dangers": "Icebound Clan attacked during Session 1.",
+        "secret": "",
+        "connections": "Mara; Aldrin; Black Seal",
+        "notes": ""
+      },
+      "meta": {
+        "kind": "Tavern",
+        "region": "Kingdom of Unity",
+        "status": "Active"
+      },
+      "tags": [
+        "Session 1"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "id-muqkfyo2-d5qyrq6",
+      "type": "quest",
+      "title": "The Missing Orb Scroll",
+      "subtitle": "House Vaelmont mystery",
+      "image": "",
+      "fields": {
+        "brief": "A restricted House Vaelmont scroll containing incomplete historical information about mysterious Orbs has disappeared.",
+        "goal": "Learn who stole it, why they wanted it, and what they know about the missing Orb.",
+        "clues": "A messenger used the wrong entrance. An owl with a marked ribbon dropped a message in a drop box.",
+        "npcs": "Tharo Vael",
+        "locations": "Ravenspire; House Vaelmont archive",
+        "rewards": "",
+        "secret": "Tie the Orbs to the larger campaign mystery.",
+        "notes": ""
+      },
+      "meta": {
+        "status": "Active",
+        "priority": "Main Thread",
+        "questType": "Mystery"
+      },
+      "tags": [
+        "Orbs",
+        "Ravenspire"
+      ],
+      "createdAt": 1790921537858,
+      "updatedAt": 1790921537858,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-1",
+      "type": "lore",
+      "title": "Arcadia at a Glance",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Arcadia is an old continent of many kingdoms, cultures and territories living in the shadow of the shattered Crown of Unity.",
+        "knownFor": "Arcadia contains knightly lands, ancient forests, dwarven holds, wealthy ports, fortified borders, holy centres, secretive courts and a dangerous northern frontier. The Crown of Unity once helped hold the realms together, but its destruction began the Age of Shards. Daily life continues, yet old agreements are straining, factions are gaining influence, ruins are being reopened and many people feel that something is changing.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 4",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 4"
+      },
+      "tags": [
+        "Arcadia",
+        "Age of Shards",
+        "Crown of Unity"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-2",
+      "type": "lore",
+      "title": "The Present Day — 120 AS",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "The campaign takes place in Year 120 of the Age of Shards.",
+        "knownFor": "The Age of Shards refers both to the destruction of the Crown of Unity and the political fragmentation that followed. The gods are widely believed to be real, although their silence and fading divine signs are disputed. Magic is known but unevenly distributed. Powerful magic is rare, expensive and politically important. Adventurers work as escorts, scouts, investigators, ruin-delvers, guards, monster hunters and deniable agents.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 4",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 4"
+      },
+      "tags": [
+        "120 AS",
+        "Present Day",
+        "Magic",
+        "Adventurers"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-3",
+      "type": "lore",
+      "title": "Player-Safe Knowledge",
+      "subtitle": "Player-Safe Canon",
+      "image": "",
+      "fields": {
+        "summary": "The World Bible represents what characters could reasonably learn through ordinary life, education, travel, religion, military service, trade or common rumour.",
+        "knownFor": "Knowledge can be treated as Common Knowledge, Educated Knowledge, Regional Knowledge or Rumour. Different people can remember history differently, and not every public story is necessarily completely true.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 2",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Player-Safe Canon",
+        "source": "Player Bible p. 2"
+      },
+      "tags": [
+        "Knowledge",
+        "Rumours"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-4",
+      "type": "location",
+      "title": "The Lands of Arcadia",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Arcadia is a broad heartland surrounded by harder frontiers, with borders shaped by old treaties rather than modern clean lines.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Unity occupies the central heartland. Eryndor dominates the east; Khar-Duram the north-eastern mountains; Thalassar the far south-western seas; Solmara the warmer southern-centre; Veyrhold the fortified west and south-west; Ravenspire the western and north-western mountains; Drakemarch the far north-western frontier; Frosthelm the cold north. The Shatterice Expanse lies beyond the northern sea lanes. Major journeys are normally measured in weeks, not days.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 5"
+      },
+      "tags": [
+        "Geography",
+        "Travel",
+        "Borders"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-5",
+      "type": "location",
+      "title": "Kingdom of Unity",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Political and diplomatic heart of Arcadia, known for universities, royal roads, treaties and Crown history.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Central realm • Capital of Unity • High Sovereign Althoras Veldeer • Elunara prominent\n\nA broad fertile land of farms, forests, rivers and busy roads. Unity values law, education, diplomacy and cooperation between kingdoms. It remains wealthy and influential, though its authority has weakened since the Shattering. Relations are maintained with every major realm. Common dangers include bandits, thieves, smugglers, unstable magical ruins and political disputes.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 18"
+      },
+      "tags": [
+        "Unity",
+        "Capital of Unity",
+        "Althoras Veldeer"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-6",
+      "type": "location",
+      "title": "Valedorn",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A knightly land of estates, banners, oaths, horses, tournaments, castles and noble feuds.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "South-east • Highcrest • Great Houses • Caelion\n\nValedorn is fertile countryside filled with farms, vineyards, forests and great stone castles. Family, hospitality, hard work, heraldry and reputation matter strongly. It trades closely with Unity and Thalassar and respects Khar-Duram craftsmanship. Common threats include wolves, giant boars, goblins, giant spiders, bandits and dangerous wildlife.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 19"
+      },
+      "tags": [
+        "Highcrest",
+        "Knights",
+        "Caelion"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-7",
+      "type": "location",
+      "title": "Eryndor",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "An ancient forest realm known for elven culture, living architecture, protected sanctuaries and old magic.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "East • Lethariel • Elder Courts and Forest Councils • Aeris\n\nEryndor values memory, stewardship, patience and careful change. Settlements are built in harmony with ancient forests. Elves and half-elves are especially common, but many peoples live there. Eryndor has peaceful ties with Valedorn and an old cultural rivalry with Khar-Duram. Threats include giant spiders, owlbears, wolves, hostile plant creatures, territorial Fey and magically altered wilderness.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 20"
+      },
+      "tags": [
+        "Lethariel",
+        "Elves",
+        "Aeris",
+        "Fey"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-8",
+      "type": "location",
+      "title": "Khar-Duram",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A union of mountain holds famous for mining, forging, engineering, underground cities, contracts and oaths.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "North-east • Irondeep • High Thane and Hold Councils • Grondar\n\nKhar-Duram places great importance on clan, chosen-hall bonds, craftsmanship, promises and reputation. Dwarves are culturally influential, while many other peoples live in the holds. It exports weapons, armour, metals and engineering across Arcadia. Dangers include cave-ins, abandoned mines, goblins, kobolds, giant bats and mountain predators.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 21"
+      },
+      "tags": [
+        "Irondeep",
+        "Dwarves",
+        "Grondar",
+        "Craft"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-9",
+      "type": "location",
+      "title": "Drakemarch",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A dangerous frontier known for monster hunting, militias, highland survival and old dragon tales.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Far north-west • Dragonrest • Marcher Lords and elected War Captains • Rhydrak\n\nDrakemarch communities expect danger and value self-reliance, hunters, scouts and monster-slayers. True dragon-killers may earn the title Dragonsworn. The region trades for equipment from Khar-Duram and resists outside control. Common threats include owlbears, trolls, wolves, giant beasts, bandits, raiders and dangerous wilderness.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 22"
+      },
+      "tags": [
+        "Dragonrest",
+        "Dragonsworn",
+        "Rhydrak",
+        "Monster Hunters"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-10",
+      "type": "location",
+      "title": "Solmara",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A hot sacred realm of pilgrimage, scholarship, vineyards, medicine, temple charity and sacred history.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Southern-central • Dawnspire traditions / Chronicle Sanctum • Elunara\n\nSolmara consists of deserts, rocky canyons, dry grasslands and fertile river valleys. Hospitality, water, shade, food, markets and bargaining are important cultural customs. Temples have major influence in healing, education, charity and public morality. Threats include heat, sandstorms, dehydration, giant scorpions, snakes and caravan raiders.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 23"
+      },
+      "tags": [
+        "Dawnspire",
+        "Chronicle Sanctum",
+        "Elunara",
+        "Desert"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-11",
+      "type": "location",
+      "title": "Veyrhold",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A militarised realm of standing armies, academies, fortifications, logistics and disciplined roads.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "West and south-west • Ironwatch • Marshal-Crown and Fortress Councils • Varkesh\n\nVeyrhold values preparation, duty, responsibility and service. Even many civilians understand drills and chains of command. Its military growth since the Shattering worries some neighbours, while Veyrhold insists it is protecting Arcadia. Threats include raiders, ogres, borderland monsters, undead and remnants of old warfare.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 24"
+      },
+      "tags": [
+        "Ironwatch",
+        "Varkesh",
+        "Military"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-12",
+      "type": "location",
+      "title": "Thalassar",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A wealthy maritime realm known for fleets, ports, shipbuilding, banking, trade and foreign goods.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Far south-west island and sea realm • Azurehaven traditions • Merchant-Princes beneath a Sea Crown • Narell\n\nThalassar turns shipping, credit, insurance, contracts and ports into political power. Its cities are multicultural and socially flexible, and successful trade can raise status. It trades with nearly every region. Dangers include pirates, smugglers, storms, shipwrecks, sharks and giant sea creatures.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 25"
+      },
+      "tags": [
+        "Azurehaven",
+        "Narell",
+        "Sea",
+        "Trade"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-13",
+      "type": "location",
+      "title": "Ravenspire",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A mist-covered realm famous for archives, espionage, Ravencraft, occult scholarship and information networks.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "West and north-west • Blackhaven • Secretive Crown and Council of Old Houses • Umbrael\n\nRavenspire values knowledge, careful speech, privacy, records and reputation. Its noble Houses maintain couriers, coded systems and intelligence networks. Ravencraft uses trained ravens for communication and information gathering. Shadar-kai are strongly associated with the region. Threats include spies, organised crime, bandits, undead, spirits and dangerous ruins.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 26"
+      },
+      "tags": [
+        "Blackhaven",
+        "Umbrael",
+        "Ravencraft",
+        "House Networks"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-14",
+      "type": "location",
+      "title": "Frosthelm",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A cold northern kingdom adapted to survival, winter law, fishing, iron, guides and expedition outfitting.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "North • Winterhold • Northern Crown and Clan Assemblies • Iskara\n\nFrosthelm is civilisation adapted to cold rather than the edge of civilisation. Communities value loyalty, practical skill and hospitality because weather can kill quickly. It has strong ties with Veyrhold and Khar-Duram and stands closest to the Shatterice Expanse. Threats include winter wolves, yetis, ice creatures, blizzards, avalanches and extreme cold.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 27"
+      },
+      "tags": [
+        "Winterhold",
+        "Iskara",
+        "North",
+        "Shatterice"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-15",
+      "type": "location",
+      "title": "Capital of Unity",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "The principal centre of the Kingdom of Unity and a major diplomatic and political centre of Arcadia.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Known for Crown history, courts, scholars, diplomacy and the institutions of Unity.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 18"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-16",
+      "type": "location",
+      "title": "Crownwater Lake",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "The great central lake where the Treaty of Crownwater was negotiated.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "A major symbol of negotiated peace between rival realms.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 12"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-17",
+      "type": "location",
+      "title": "Graymark Keep / Greykeep",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Ancestral seat of House Gray and a famous treaty ground.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Its name survives in the Greykeep Accord and the saying “Remember the Greykeep.”",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 29"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-18",
+      "type": "location",
+      "title": "Highcrest",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Major centre of Valedorn.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Associated with noble houses, knightly traditions and heraldry.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 19"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-19",
+      "type": "location",
+      "title": "Lethariel",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Major centre of Eryndor.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "A recognised centre within the ancient eastern forest realm.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 20"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-20",
+      "type": "location",
+      "title": "Irondeep",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Major centre of Khar-Duram.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "A major dwarven hold associated with mining, forging and engineering.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 21"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-21",
+      "type": "location",
+      "title": "Dragonrest",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Major centre of Drakemarch.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "A frontier centre in a region shaped by monster hunting and militia culture.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 22"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-22",
+      "type": "location",
+      "title": "Chronicle Sanctum / Dawnspire traditions",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Important Solmaran sacred and scholarly centres.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Associated with pilgrimage, Elunara, scholarship, medicine and sacred history.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 23"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-23",
+      "type": "location",
+      "title": "Ironwatch",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Major centre of Veyrhold.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "A fortified centre in one of Arcadia's strongest military realms.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 24"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-24",
+      "type": "location",
+      "title": "Azurehaven traditions",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A major Thalassarian centre and cultural reference point.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Associated with ports, shipping, banking and Narell.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 25"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-25",
+      "type": "location",
+      "title": "Blackhaven",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Major centre of Ravenspire.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Associated with old Houses, archives, intelligence networks and Ravencraft.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 26"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-26",
+      "type": "location",
+      "title": "Winterhold",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Major centre of Frosthelm.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "A northern centre of winter law, survival and expedition outfitting.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 27"
+      },
+      "tags": [
+        "Place"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-27",
+      "type": "lore",
+      "title": "Elunara — The Dawnmother",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Dawn, hope, protection, mercy, renewal and new beginnings.",
+        "knownFor": "Symbol: rising golden sun above an open horizon. Sacred animal: white dove. Strongest in Solmara and Unity. Followers include healers, priests, travellers, parents, rulers and farmers. Her temples are known for charity, healing, food stores, shelter and sunrise rites.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 8",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 8"
+      },
+      "tags": [
+        "Elunara",
+        "Dawnmother",
+        "Solmara",
+        "Unity"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-28",
+      "type": "lore",
+      "title": "Aeris — Lady of Life and Open Sky",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Life, growth, healing, wind, freedom and living places.",
+        "knownFor": "Symbol: green leaf on a silver breeze. Sacred animal: skylark. Strongest in Eryndor and among healers. Followers include druids, herbalists, midwives, foresters and wanderers. Her faith teaches that life survives through change rather than control.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 8",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 8"
+      },
+      "tags": [
+        "Aeris",
+        "Eryndor",
+        "Nature"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-29",
+      "type": "lore",
+      "title": "Grondar — Lord of Stone and Forge",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Stone, metal, craft, endurance, oaths and honest work.",
+        "knownFor": "Symbol: forge hammer before a mountain gate. Sacred animal: mountain ram. Strongest in Khar-Duram and crafting guilds. His worship values patience, durability, proper work and keeping sworn agreements.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 8",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 8"
+      },
+      "tags": [
+        "Grondar",
+        "Khar-Duram",
+        "Forge"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-30",
+      "type": "lore",
+      "title": "Narell — Lord of Tides and Storms",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Oceans, rivers, storms, currents, memory, trade routes and safe passage.",
+        "knownFor": "Symbol: blue wave curling around a silver crescent. Sacred animal: albatross. Strongest in Thalassar and coastal settlements. His temples often serve as weather shrines, harbour sanctuaries and places to remember the drowned.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 9",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 9"
+      },
+      "tags": [
+        "Narell",
+        "Thalassar",
+        "Sea"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-31",
+      "type": "lore",
+      "title": "Umbrael — Keeper of Secrets",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Shadows, privacy, hidden knowledge, secrets, night roads and necessary silence.",
+        "knownFor": "Symbol: black raven above a closed eye. Sacred animal: raven. Strongest in Ravenspire. Common followers include scribes, spies, archivists, investigators and messengers. Ravenspire distinguishes secrecy used to protect from secrecy used to corrupt.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 9",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 9"
+      },
+      "tags": [
+        "Umbrael",
+        "Ravenspire",
+        "Secrets"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-32",
+      "type": "lore",
+      "title": "Caelion — The Oathblade",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Honour, chivalry, courage, loyalty, righteous duels and keeping one's word.",
+        "knownFor": "Symbol: silver sword crossed over a golden shield. Sacred animal: white stag. Strongest in Valedorn. Favoured by knights, retainers, judges, heralds and noble houses. The faith teaches that the manner of victory matters.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 9",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 9"
+      },
+      "tags": [
+        "Caelion",
+        "Valedorn",
+        "Oaths"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-33",
+      "type": "lore",
+      "title": "Varkesh — The Iron Sentinel",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Duty, vigilance, defence, sacrifice, discipline and guardianship.",
+        "knownFor": "Symbol: closed iron helm above a fortress wall. Sacred animal: black wolf. Strongest in Veyrhold. His faith honours those who stand guard and teaches that force is sacred when used for protection, not merely because one possesses it.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 9",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 9"
+      },
+      "tags": [
+        "Varkesh",
+        "Veyrhold",
+        "Duty"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-34",
+      "type": "lore",
+      "title": "Rhydrak — The Great Hunter",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "The hunt, monsters, courage, worthy enemies, wilderness and impossible odds.",
+        "knownFor": "Symbol: broken dragon horn above a spear. Sacred animal: hawk. Strongest in Drakemarch. The faith distinguishes the Hunt of Necessity, which protects communities, from the condemned Hunt of Vanity.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 10",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 10"
+      },
+      "tags": [
+        "Rhydrak",
+        "Drakemarch",
+        "Hunt"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-35",
+      "type": "lore",
+      "title": "Iskara — The Hearthmother",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Winter, survival, family, hospitality, fire, perseverance and safe return.",
+        "knownFor": "Symbol: flame inside a six-pointed snowflake. Sacred animal: snow bear. Strongest in Frosthelm. Her worship is closely tied to Hearth Law: shelter should not be refused to someone who would otherwise die in lethal cold.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 10",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 10"
+      },
+      "tags": [
+        "Iskara",
+        "Frosthelm",
+        "Winter",
+        "Hospitality"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-36",
+      "type": "lore",
+      "title": "Do the Gods Speak?",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Miracles, visions and prophecy exist, but ordinary Arcadians cannot prove how directly the gods intervene.",
+        "knownFor": "People disagree about whether every miracle comes directly from a deity, whether every vision is trustworthy, and why the gods no longer walk openly among mortals as old stories claim.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 10",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 10"
+      },
+      "tags": [
+        "Divine Silence",
+        "Prophecy"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-37",
+      "type": "lore",
+      "title": "The Four Ages",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Arcadian history is commonly divided into the Age of Dawn, Golden Age, Broken Sky and the current Age of Shards.",
+        "knownFor": "Age of Dawn: 4,000+ years ago, remembered for creation traditions and divine conflict.\nGolden Age: roughly 3,000–1,500 years ago, remembered for expanding kingdoms, high magic, treaties and the Crown.\nBroken Sky: from roughly 1,400 years ago, marked by catastrophic magical war, rebuilding and long peace.\nAge of Shards: the last 120 years, after the Crown shattered.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 11",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 11"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-38",
+      "type": "lore",
+      "title": "The First Dawn",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Religious tradition says Elunara brought the First Light, after which other divine powers helped shape the world.",
+        "knownFor": "Elven, dwarven and human traditions remember their beginnings differently. The era is remembered as a time when gods, spirits, omens and sacred places felt close to mortal life.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 11",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 11"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-39",
+      "type": "lore",
+      "title": "The Divine Sundering",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Arcadia's oldest remembered great war was a divine conflict of enormous scale.",
+        "knownFor": "Its cause is disputed. Stories speak of mountains broken, skies burned, coastlines changed and entire peoples disappearing. It became a warning about the destructive potential of absolute power.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 11",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 11"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-40",
+      "type": "lore",
+      "title": "The Covenant of Veils",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "After the Sundering, the gods are said to have agreed not to openly rule mortals.",
+        "knownFor": "Some priests treat the Covenant as a true divine agreement; others think it was a later explanation for divine distance. Clerics still perform miracles, but no major god is believed to openly sit on a mortal throne.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 12",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 12"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-41",
+      "type": "lore",
+      "title": "Rise of the Kingdoms",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Mortal kingdoms grew stronger after the gods withdrew from direct rule.",
+        "knownFor": "Eryndor protected old forests, Khar-Duram expanded its holds, Frosthelm grew from northern survival communities, Thalassar developed from trading ports and Ravenspire became known for roads, records and messengers.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 12",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 12"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-42",
+      "type": "lore",
+      "title": "War of Five Banners",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Around 2,200 years ago, five powerful realms fought over central Arcadia.",
+        "knownFor": "A succession dispute grew into border wars, seized trade routes and noble rivalries. The worst years became known as the Burning Seasons. No kingdom truly won.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 12",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 12"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-43",
+      "type": "lore",
+      "title": "Treaty of Crownwater",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "The Treaty of Crownwater ended major fighting and helped establish rules for peaceful dispute.",
+        "knownFor": "Surviving rulers met at Crownwater Lake, recognised borders, reopened trade routes and created procedures for resolving conflict without immediately going to war. It did not make Arcadia one kingdom.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 12",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 12"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-44",
+      "type": "lore",
+      "title": "Thalanor the Just & the Crown of Unity",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Thalanor is remembered for uniting rulers through negotiation rather than conquest.",
+        "knownFor": "The great powers cooperated to create the Crown of Unity. It did not abolish local rulers; instead it established the High Sovereign, charged with protecting peace between the realms.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 13",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 13"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-45",
+      "type": "lore",
+      "title": "The Long Flourishing",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "The centuries after the Crown's rise were remembered for roads, universities, safer trade, temples and high magical research.",
+        "knownFor": "Artificers created wonders later generations struggle to reproduce. Prosperity also encouraged dangerous ambition, secret research and competition for power.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 13",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 13"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-46",
+      "type": "lore",
+      "title": "War of the Broken Sky",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Around 1,400 years ago, magical rivalry became a catastrophic war.",
+        "knownFor": "Kingdoms, schools, temples and private groups competed for relics, weapons and forbidden knowledge. Stories describe unnatural storms, bright night skies, cracks across the heavens and unfamiliar creatures appearing on battlefields.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 13",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 13"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-47",
+      "type": "lore",
+      "title": "The Northern Winter",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "After the Broken Sky, strange changes spread through the far north.",
+        "knownFor": "Animals migrated strangely, summer ice stopped melting, settlements vanished and expeditions returned with contradictory stories. No agreed cause exists, but the Shatterice became much more dangerous.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 14",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 14"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-48",
+      "type": "lore",
+      "title": "The Long Peace and Forgetting",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Arcadia rebuilt and created rules, archives and safeguards after the Broken Sky.",
+        "knownFor": "Dangerous relics were sealed, magic was more controlled and old warnings were preserved. Over centuries, people increasingly forgot why many safeguards and traditions had been created.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 14",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 14"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-49",
+      "type": "lore",
+      "title": "War of the Three Thrones",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Several centuries ago, three rival claims to the High Sovereignty caused a twelve-year conflict.",
+        "knownFor": "The war ended with the Greykeep Accord. The Crown remained whole, but the High Sovereign's power was reduced and future sovereigns needed broader support from the great realms.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 14",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 14"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-50",
+      "type": "lore",
+      "title": "The Shattering of the Crown",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "One hundred and twenty years ago, the Crown of Unity shattered during a crisis in the Capital.",
+        "knownFor": "Public stories mention forbidden magic, fighting inside the Crown Citadel and a renegade or conspiracy. Some fragments were recovered and others vanished. The event ended the old political order and began the Age of Shards.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 15",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 15"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-51",
+      "type": "lore",
+      "title": "The Age of Shards",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Arcadia survived the Shattering, but its centre has weakened for 120 years.",
+        "knownFor": "Unity remains important but less able to command the great realms. Veyrhold has strengthened militarily, Thalassar has become wealthier through trade, Ravenspire's information networks have grown more valuable and noble competition is increasingly open.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 15",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 15"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-52",
+      "type": "lore",
+      "title": "Recent History — Last 20 Years",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Public events of the last two decades show rising pressure across Arcadia.",
+        "knownFor": "20 years ago: Unity renewed road taxes, courier rights and toll laws.\n17 years ago: poor harvests struck parts of Valedorn and Solmara.\n15 years ago: Veyrhold expanded academies and border forts.\n12 years ago: Thalassarian merchant-princes gained leverage through shipping disputes.\n10 years ago: Khar-Duram mine accidents led to stricter safety oaths.\n8 years ago: Ravenspire suffered a major courier scandal.\n6 years ago: Drakemarch endured a harsh monster season.\n5 years ago: Frosthelm suffered a brutal winter.\n3 years ago: northern expeditions returned damaged, incomplete or contradictory.\nThis year: contracts, armed escorts, ruin exploration, political bargaining and talk of the north are all increasing.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 16",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 16"
+      },
+      "tags": [
+        "History"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-53",
+      "type": "faction",
+      "title": "The Silver Crown",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Coalition of noble houses, courtiers, legal scholars and traditionalists tied to Unity's old institutions.",
+        "goal": "Broad goal: preserve royal legitimacy and the treaty system while expanding the influence of established houses. Supporters call them stabilisers; critics see self-protecting aristocrats.",
+        "feature": "",
+        "leadership": "",
+        "members": "",
+        "secret": "",
+        "relations": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 29"
+      },
+      "tags": [
+        "Politics",
+        "Unity"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-54",
+      "type": "faction",
+      "title": "The Iron Legion",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Powerful military institution with officers, veterans, engineers, quartermasters and allied units across several realms.",
+        "goal": "Broad goal: maintain readiness for major war, protect strategic roads and fortresses, and secure military influence. Respected for competence; feared when generals push too far into politics.",
+        "feature": "",
+        "leadership": "",
+        "members": "",
+        "secret": "",
+        "relations": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 29"
+      },
+      "tags": [
+        "Military"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-55",
+      "type": "faction",
+      "title": "The Emerald Syndicate",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Cross-border network of smugglers, fixers, fences, bookmakers, corrupt officials, thieves and legitimate cover businesses.",
+        "goal": "Broad goal: profit from goods, information, favours and people restricted by official systems. It is not one street gang; its cells range from brutal criminals to sophisticated commercial conspirators.",
+        "feature": "",
+        "leadership": "",
+        "members": "",
+        "secret": "",
+        "relations": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 29"
+      },
+      "tags": [
+        "Crime",
+        "Trade"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-56",
+      "type": "faction",
+      "title": "The Faithbound",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Broad religious network strongest among Elunaran institutions, with allied orders devoted to healing, pilgrimage, protection, scholarship and charity.",
+        "goal": "Broad goal: defend sacred sites, support the faithful and prepare for threats they believe secular rulers underestimate. Admired for relief work and criticised when clergy attempt to dictate policy.",
+        "feature": "",
+        "leadership": "",
+        "members": "",
+        "secret": "",
+        "relations": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 29"
+      },
+      "tags": [
+        "Religion",
+        "Elunara"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-57",
+      "type": "faction",
+      "title": "House Gray",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Old noble family tied to Graymark Keep, treaty history, regional estates and political memory.",
+        "goal": "Broad goal: preserve Greykeep's independence and House Gray's influence between greater powers. Publicly associated names include Tommy Gray, Logan Gray, Micah Walts, Adelaide and Elijah Walker.",
+        "feature": "",
+        "leadership": "",
+        "members": "",
+        "secret": "",
+        "relations": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 29"
+      },
+      "tags": [
+        "Nobility",
+        "Greykeep"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-58",
+      "type": "faction",
+      "title": "Northreach Consortium",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Wealthy merchant organisation focused on northern trade, shipping, extraction, salvage, supply and expedition finance.",
+        "goal": "Broad goal: turn dangerous northern routes into reliable profit while maintaining charters and political protection. Especially well known in Frosthelm and among sailors.",
+        "feature": "",
+        "leadership": "",
+        "members": "",
+        "secret": "",
+        "relations": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 29"
+      },
+      "tags": [
+        "Trade",
+        "North",
+        "Expeditions"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-59",
+      "type": "faction",
+      "title": "The Arcane Conclave",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Loose scholarly network of universities, licensed towers, court mages and independent circles.",
+        "goal": "Broad goal: standardise magical scholarship, prevent dangerous practices and protect arcane autonomy. Archmage Thaleon Myre is a well-known public figure. Critics call the Conclave secretive; members argue dangerous knowledge needs responsible gatekeeping.",
+        "feature": "",
+        "leadership": "",
+        "members": "",
+        "secret": "",
+        "relations": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 29"
+      },
+      "tags": [
+        "Magic",
+        "Thaleon Myre"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-60",
+      "type": "faction",
+      "title": "Royal Archive Service",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Archivists, surveyors, mapmakers, translators, antiquarians and field researchers supported by Unity and partner institutions.",
+        "goal": "Broad goal: preserve records, investigate ruins, maintain treaty copies and update maps. Adventurers are often hired as escorts for dangerous field work.",
+        "feature": "",
+        "leadership": "",
+        "members": "",
+        "secret": "",
+        "relations": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 29"
+      },
+      "tags": [
+        "Archives",
+        "Unity",
+        "Ruins"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-61",
+      "type": "lore",
+      "title": "Ancestry and Culture",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Where someone grew up often matters more culturally than their ancestry.",
+        "knownFor": "Arcadia is culturally mixed. Humans, elves, dwarves, halflings, gnomes, dragonborn, tieflings, orcs, half-orcs and many other peoples live throughout the continent. Historic homelands exist, but centuries of migration, trade, war, pilgrimage and intermarriage mean appearance alone rarely identifies someone's culture.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 31",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 31"
+      },
+      "tags": [
+        "Ancestry",
+        "Culture"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-62",
+      "type": "lore",
+      "title": "Languages",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Common is the main trade language across most of Arcadia, while regional and specialist languages remain important.",
+        "knownFor": "Elvish and Dwarvish remain strong literary and community languages in Eryndor and Khar-Duram. Draconic appears in old magical texts and some dragonborn lineages. Sylvan, Giant, Celestial, Infernal, Abyssal, Orc, Gnomish, Halfling and other standard D&D languages exist. Regional accents can be strong even when everyone speaks Common.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 31",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 31"
+      },
+      "tags": [
+        "Languages"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-63",
+      "type": "lore",
+      "title": "Regional Identities",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Each realm has recognisable cultural habits, but they are guides rather than rules for individuals.",
+        "knownFor": "Unity-born: Comfortable with bureaucracy, mixed communities, official roads and political news.\nValedorn: Hospitality, lineage, heraldry, horse culture, duelling etiquette and formal promises.\nEryndorian: Patience, place, memory and thinking about consequences across generations.\nKhar-Dûram: Contracts, clan or chosen-hall bonds, craft, direct speech and reputation built over time.\nSolmaran: Public festivals, temple charity, sunrise customs, education, wine culture and civic moral debate.\nVeyrholder: Preparedness, duty, practical dress, punctuality, military vocabulary and logistics.\nThalassarian: Negotiation, multilingual trade, sea lore, fashion, contracts and comfort with foreigners.\nRavenspire: Privacy, careful speech, family networks, mountain hospitality, records and guarded information.\nFrosthelmer: Cold-weather competence, household hospitality, dry humour, practical generosity and disdain for poor preparation.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 32",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 32"
+      },
+      "tags": [
+        "Regional Culture"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-64",
+      "type": "lore",
+      "title": "Magic in Everyday Arcadia",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Magic is known and real, but powerful magic is uncommon and attracts legal and political attention.",
+        "knownFor": "Low-level magic appears through temple healing, guild enchantments, messenger charms, warded warehouses, minor illusions, magical lighting and skilled craftspeople. Powerful casters and major magical infrastructure are rare enough to matter politically.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 33",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 33"
+      },
+      "tags": [
+        "Magic"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-65",
+      "type": "lore",
+      "title": "Magic: Law and Regulation",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Arcadian law distinguishes ordinary magical practice from acts considered coercive, catastrophic or strategically dangerous.",
+        "knownFor": "Healing magic — legal and respected.\nResurrection — possible in exceptional cases, but rare, expensive and spiritually complicated.\nTeleportation circles — rare, guarded, licensed strategic infrastructure.\nDivination — generally legal but restricted in courts, gambling, military sites, elections and private correspondence.\nEnchantment of unwilling minds — heavily restricted and commonly treated as assault, coercion or treason.\nNecromancy — not universally illegal, but corpse desecration, uncontrolled undead, soul manipulation and military necromancy are heavily prohibited.\nSummoning / planar binding — legal only within limits; dangerous bindings may fall under Broken Sky treaty law.\nRelic trafficking — regulated; catastrophic divine-war relics may be seized.\nWarlock pacts — not automatically illegal, though public suspicion can be intense.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 33",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 33"
+      },
+      "tags": [
+        "Magic Law",
+        "Necromancy",
+        "Relics"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-66",
+      "type": "lore",
+      "title": "Law",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Kingdoms have separate laws, but old treaties create shared expectations around borders, diplomats, war crimes, magical weapons and privileges.",
+        "knownFor": "Ordinary weapons are legal in much of Arcadia, though cities may require peace-binding. Drawing weapons in royal courts, temples or treaty halls can be a major crime. Adventurers do not automatically have legal authority to kill fugitives or criminals in settled jurisdictions. Warrants, bounties and charters matter. Mind control, magical impersonation of officials, royal-seal tampering and catastrophic relic trafficking are treated harshly. Guest-right and sanctuary have legal force in several cultures.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 35",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 35"
+      },
+      "tags": [
+        "Law",
+        "Warrants",
+        "Guest-right"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-67",
+      "type": "lore",
+      "title": "Coin and Prices",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Standard D&D coin values are used, with common Arcadian names.",
+        "knownFor": "1 cp = Copper Bit\n1 sp = Silver Mark\n1 gp = Gold Crown\n1 pp = Platinum Sovereign\nForeign and antique coins circulate by weight. Thalassarian bankers and dwarven assay houses are trusted for exchange.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 35",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 35"
+      },
+      "tags": [
+        "Currency"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-68",
+      "type": "lore",
+      "title": "War",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Arcadian armies combine professional troops with levies, household forces, mercenaries, knights, militia and allied clans.",
+        "knownFor": "Veyrhold and the Iron Legion rely more on standing forces; Valedorn emphasises noble cavalry; Khar-Duram favours heavy infantry and engineering; Thalassar dominates at sea. Large wars require months of supply preparation, making roads, bridges, ports, grain stores and river crossings strategically vital.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 35",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 35"
+      },
+      "tags": [
+        "Military",
+        "Logistics"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-69",
+      "type": "lore",
+      "title": "Trade",
+      "subtitle": "Educated Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Every realm contributes specialised goods and services to Arcadia's cross-border economy.",
+        "knownFor": "Unity — grain, finished goods, books, legal services, luxury crafts, administration.\nValedorn — horses, grain, leather, wine, arms and tournament goods.\nEryndor — rare woods, medicines, art, magical reagents, fine bows and preserved lore.\nKhar-Duram — metal, tools, weapons, armour, stonework, locks and engineering.\nSolmara — wine, olive oil, medicine, textiles, books and religious art.\nVeyrhold — iron goods, military equipment, preserved food and engineering services.\nThalassar — imported luxuries, fish, salt, shipbuilding, credit and transport.\nRavenspire — silver, paper, inks, mountain herbs, information brokerage and specialty crafts.\nFrosthelm — furs, fish, whale products, amber, cold-iron ore and expedition supplies.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 36",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Educated Knowledge",
+        "source": "Player Bible p. 36"
+      },
+      "tags": [
+        "Trade",
+        "Exports"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-70",
+      "type": "lore",
+      "title": "Travel and Communication",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Royal roads are safest near major cities; elsewhere travellers depend on caravans, pilgrim paths, rivers, ferries, coastal ships and mountain passes.",
+        "knownFor": "Inns may be days apart in frontier country. Letters travel through official couriers, merchant post, temples, military riders, ships or expensive magical means. Arcadia rewards preparation: food, tents, healing, maps, language skills and legal contracts can matter as much as combat ability.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 36",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 36"
+      },
+      "tags": [
+        "Travel",
+        "Couriers"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-71",
+      "type": "lore",
+      "title": "The Twelve-Month Calendar",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Most of Arcadia uses a solar calendar of twelve months, with the year beginning near the spring dawn festival.",
+        "knownFor": "Firstlight — Early spring: New contracts, planting preparations, civic oaths.\nRainmoot — Spring: Heavy rains, river travel, market fairs.\nBloomrise — Late spring: Flowers, weddings, pilgrimages.\nSuncrest — Early summer: Campaign season begins; festivals and tournaments.\nHighsun — Summer: Longest days, major trade, outdoor labour.\nGoldfield — Late summer: Early harvest, horse fairs, military musters.\nEmberwane — Early autumn: Forge festivals, preserved foods, wine work.\nHarvestend — Autumn: Major harvest, taxes, communal feasts.\nMistfall — Late autumn: Fog, remembrance rites, river closures.\nLongnight — Early winter: Short days, household festivals, storytelling.\nFrostdeep — Winter: Harsh travel, northern trade, temple relief.\nDawnturn — Late winter: Renewal rites, debt settlements, preparation for Firstlight.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 37",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 37"
+      },
+      "tags": [
+        "Calendar",
+        "Months"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-72",
+      "type": "lore",
+      "title": "Food, Clothing and Inns",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Climate and region shape everyday life more than fantasy stereotypes do.",
+        "knownFor": "Heartland staples include bread, porridge, stews, onions, beans, cheese, preserved meat, river fish, beer, cider and seasonal vegetables. Regional food changes sharply. Linen and wool dominate ordinary clothing; wealth adds dyes, fur, silk, embroidery, jewellery and tailoring. Roadside inns usually offer a common room, simple food, ale, sleeping space and stabling. Guest-right is taken seriously in many regions.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 37",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 37"
+      },
+      "tags": [
+        "Food",
+        "Clothing",
+        "Inns"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-73",
+      "type": "lore",
+      "title": "Major Festivals",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "summary": "Arcadian festivals reflect faith, craft, treaties, remembrance and survival.",
+        "knownFor": "First Dawn — Firstlight 1: Elunaran sunrise festival of renewal and the civic new year in many regions.\nForgewake — Emberwane: Grondar festival of crafts, apprenticeships and tool repair.\nTidecalling — varies by coast: Narell festival blessing ships and remembering those lost at sea.\nCrownwater Day — Highsun: civic celebration of peace treaties and arbitration.\nGreykeep Remembrance — Harvestend: observance of limits on royal power and sworn accords.\nNight of Lamps — Mistfall: lamps for the dead, missing and those who died far from home.\nWinter's Table — Longnight: household feast focused on guest-right, shared heat, stories and charity.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 38",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 38"
+      },
+      "tags": [
+        "Festivals"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-74",
+      "type": "monster",
+      "title": "Major Monster Lore",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Arcadians know monsters exist; disagreement is usually about where they are, how common they are and how much a story has grown in the telling.",
+        "appearance": "",
+        "behavior": "Dragons are ancient, intelligent and territorial. Undead are linked with curses, battlefields, failed burial rites, necromancy and old ruins. Fey are real but unpredictable, especially near Eryndor. Giants still appear in mountains and highlands. Fiends are known through theology and rare incidents. Aberrations are poorly understood and linked with deep ruins, magical accidents and strange powers. Lycanthropes are real enough to affect silver markets. Sailors insist sea monsters are common.",
+        "abilities": "",
+        "weakness": "",
+        "loot": "",
+        "secret": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 39"
+      },
+      "tags": [
+        "Monsters",
+        "Dragons",
+        "Undead",
+        "Fey"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-75",
+      "type": "monster",
+      "title": "Creatures Most Arcadians Have Heard Of",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Many large or magical creatures are unusual without being mythical.",
+        "appearance": "",
+        "behavior": "Owlbears, Giant Elk, Dire Wolves, Worgs, Giant Boars, Axe Beaks, Giant Goats, Giant Eagles, Hippogriffs, Griffons, Pegasi, Blink Dogs, Giant Spiders, Giant Lizards, Giant Bats, Giant Rats, Stirges, Giant Frogs, Giant Crabs, Giant Octopus, Pseudodragons, Faerie Dragons, Flying Snakes, Almiraj, Tressym.",
+        "abilities": "",
+        "weakness": "",
+        "loot": "",
+        "secret": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 40"
+      },
+      "tags": [
+        "Creatures"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-76",
+      "type": "lore",
+      "title": "Superstitions and Sayings",
+      "subtitle": "Rumour",
+      "image": "",
+      "fields": {
+        "summary": "Arcadian folk wisdom mixes religion, regional jokes, survival advice and old fears.",
+        "knownFor": "Superstitions:\n• Never count lightning aloud during a clear-sky storm; Thalorien may be listening.\n• Leave the first sip for Narell before a dangerous voyage.\n• Do not boast about flawless work inside a forge.\n• A lamp left burning for the missing may guide them home — or guide something else to you.\n• Never swear a false oath while touching Greykeep stone.\n• Ravens repeating your own words are called a Ravenspire spy story in the south.\n• If snow falls indoors with no open door, leave first and ask questions later.\n• Never follow a familiar voice into a whiteout unless you can see the speaker's feet.\n• A coin beneath a threshold is said to discourage wandering spirits.\n\nCommon sayings:\n• “Remember the Greykeep.” — Do not overreach authority or break a negotiated limit.\n• “Grondar sees the seam.” — Bad quality eventually reveals itself.\n• “Narell decides the return.” — You can plan a journey, not every danger.\n• “That's Crownwater talk.” — Polite diplomacy hiding serious disagreement.\n• “Silver in front, emerald behind.” — A respectable arrangement probably has crime somewhere behind it.\n• “Veyrhold packs before it argues.” — Preparation before debate.\n• “A Frosthelmer carries tomorrow's fire.” — Prepare before conditions arrive.\n• “The Dawn comes whether kings approve or not.” — Power is temporary; life continues.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 41",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Rumour",
+        "source": "Player Bible p. 41"
+      },
+      "tags": [
+        "Superstitions",
+        "Sayings"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-77",
+      "type": "location",
+      "title": "The Shatterice Expanse",
+      "subtitle": "Common Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Beyond Frosthelm lies a vast Arctic frontier that southerners often misunderstand as empty and uninhabitable.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Frosthelm is a functioning kingdom. Beyond it are northern sea lanes, coastal settlements and the Shatterice Expanse: scattered stations, fishing villages, clan territories, ruins, mines, hunting grounds and abandoned routes. People do live there, but isolation, weather, high supply costs and lethal mistakes make travel extremely dangerous.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Common Knowledge",
+        "source": "Player Bible p. 42"
+      },
+      "tags": [
+        "Shatterice",
+        "North",
+        "Frosthelm"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-78",
+      "type": "location",
+      "title": "Frosthollow Coast",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "One of the last somewhat settled coastal regions before deeper Arctic travel; fishing communities and supply points endure harsh seasons.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "One of the last somewhat settled coastal regions before deeper Arctic travel; fishing communities and supply points endure harsh seasons.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 42"
+      },
+      "tags": [
+        "North"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-79",
+      "type": "location",
+      "title": "Frosthollow Station",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Remote outpost used by expedition, trade and extraction interests; access depends heavily on seasonal sea conditions.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Remote outpost used by expedition, trade and extraction interests; access depends heavily on seasonal sea conditions.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 42"
+      },
+      "tags": [
+        "North"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-80",
+      "type": "location",
+      "title": "The White Maw",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Notorious glacier canyon on some expedition charts, associated with cracking ice and strange acoustics.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Notorious glacier canyon on some expedition charts, associated with cracking ice and strange acoustics.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 42"
+      },
+      "tags": [
+        "North"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-81",
+      "type": "location",
+      "title": "The Hollow Tundra",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Broad exposed wilderness where visibility, food, navigation and shelter may be more dangerous than combat.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Broad exposed wilderness where visibility, food, navigation and shelter may be more dangerous than combat.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 42"
+      },
+      "tags": [
+        "North"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-82",
+      "type": "location",
+      "title": "Stormfang Peaks",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Jagged northern mountains surrounded by bad-weather stories, mining rumours and missing expeditions.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Jagged northern mountains surrounded by bad-weather stories, mining rumours and missing expeditions.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 42"
+      },
+      "tags": [
+        "North"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-83",
+      "type": "location",
+      "title": "Icebound Peoples",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A broad southern label for multiple northern clans and communities; treating them as one culture is considered ignorant by people who know the north.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "A broad southern label for multiple northern clans and communities; treating them as one culture is considered ignorant by people who know the north.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 42"
+      },
+      "tags": [
+        "North"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-84",
+      "type": "location",
+      "title": "Northreach Consortium",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "Major company financing northern ships, cargo, stations, salvage and expeditions.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "Major company financing northern ships, cargo, stations, salvage and expeditions.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 42"
+      },
+      "tags": [
+        "North"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-85",
+      "type": "location",
+      "title": "Black Lanterns",
+      "subtitle": "Regional Knowledge",
+      "image": "",
+      "fields": {
+        "knownFor": "A name attached to scavengers, raiders, deserters or mercenaries; accounts disagree on whether it names one organised group.",
+        "appearance": "",
+        "landmarks": "",
+        "culture": "A name attached to scavengers, raiders, deserters or mercenaries; accounts disagree on whether it names one organised group.",
+        "dangers": "",
+        "secret": "",
+        "connections": "",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Regional Knowledge",
+        "source": "Player Bible p. 42"
+      },
+      "tags": [
+        "North"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-86",
+      "type": "lore",
+      "title": "Arcadian Character Origins",
+      "subtitle": "Player Reference",
+      "image": "",
+      "fields": {
+        "summary": "Characters can come from any standard D&D background, but regional origins suggest what they are likely to know.",
+        "knownFor": "Unity citizens tend to know courts, roads and Crown history; Valedorn retainers know heraldry and noble etiquette; Eryndorian wanderers know forest customs; Khar-Duram crafters know contracts and tunnels; Drakemarch hunters know monster signs; Solmaran pilgrims know temples and medicine; Veyrhold veterans know ranks and logistics; Thalassarian sailors know ships and contracts; Ravenspire agents know records and information value; Frosthelm locals know cold-weather survival and northern travel.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 43",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Player Reference",
+        "source": "Player Bible p. 43"
+      },
+      "tags": [
+        "Character Creation"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-87",
+      "type": "lore",
+      "title": "Quick Glossary",
+      "subtitle": "Player Reference",
+      "image": "",
+      "fields": {
+        "summary": "Common setting terms used throughout the campaign.",
+        "knownFor": "Arcadia — the continent and shared cultural-political world.\nUnity — usually the Kingdom of Unity; sometimes the older continent-wide ideal.\nThe Crown — the Crown of Unity, shattered 120 years ago.\nAge of Shards — current historical age.\nGreykeep — Graymark Keep, treaty ground and House Gray seat.\nCrownwater — central lake and treaty site.\nBroken Sky — catastrophic war roughly 1,400 years ago.\nFaithbound — major religious network.\nSilver Crown — pro-establishment noble and political coalition.\nIron Legion — powerful military institution.\nEmerald Syndicate — cross-border criminal-commercial network.\nNorthreach — usually the Northreach Consortium.\nThe Expanse — the Shatterice Expanse.\nFrosthollow — usually Frosthollow Coast or Frosthollow Station.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 46",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Player Reference",
+        "source": "Player Bible p. 46"
+      },
+      "tags": [
+        "Glossary"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    },
+    {
+      "id": "bible-bible-88",
+      "type": "lore",
+      "title": "Ten Things Every Player Should Remember",
+      "subtitle": "Player Reference",
+      "image": "",
+      "fields": {
+        "summary": "A quick campaign-setting cheat sheet.",
+        "knownFor": "1. Arcadia used to be more united.\n2. The Crown shattered 120 years ago, beginning the Age of Shards.\n3. Old treaties kept the kingdoms independent.\n4. The gods are real, but religious history and divine silence are disputed.\n5. Magic is known, but powerful magic is rare and politically important.\n6. Unity is the diplomatic centre, not unquestioned ruler of every kingdom.\n7. Major factions and merchant powers influence events across borders.\n8. Frosthelm is a real kingdom; the Shatterice beyond it is a dangerous populated frontier.\n9. Adventurers need contracts, supplies, allies and local knowledge as much as weapons.\n10. The Frozen Veil begins with a dangerous northern expedition job, not with the party already knowing the truth behind the Arctic mysteries.",
+        "history": "",
+        "rumours": "",
+        "connections": "",
+        "secret": "",
+        "sourceNotes": "Player Bible page 46",
+        "notes": ""
+      },
+      "meta": {
+        "knowledge": "Player Reference",
+        "source": "Player Bible p. 46"
+      },
+      "tags": [
+        "Cheat Sheet"
+      ],
+      "source": "Player World Bible",
+      "createdAt": 1790921537859,
+      "updatedAt": 1790921537859,
+      "preset": true,
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenFields": [
+          "secret",
+          "notes"
+        ],
+        "hiddenMeta": []
+      },
+      "reviewStatus": "canon"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "id-muqkfyo3-i560ubn",
+      "number": 1,
+      "title": "The Gilded Lantern",
+      "date": "",
+      "recap": "The party received mysterious summons marked with a green wax seal and golden lotus, met at the Gilded Lantern, and were tested by Aldrin before the Icebound Clan attacked.",
+      "summary": "",
+      "events": [
+        "Party members meet for the first time",
+        "Aldrin reveals himself as leader of the Black Seal",
+        "Icebound Clan attacks the tavern",
+        "One attacker is captured and interrogated"
+      ],
+      "npcs": [
+        "Aldrin",
+        "Mara"
+      ],
+      "locations": [
+        "Gilded Lantern"
+      ],
+      "quests": [
+        "Black Seal Summons",
+        "Why was Mara targeted?"
+      ],
+      "items": [
+        "Enemy letter containing party names"
+      ],
+      "decisions": "",
+      "dm": "",
+      "access": {
+        "mode": "all",
+        "users": [],
+        "hiddenParts": [
+          "dm"
+        ]
+      }
+    }
+  ],
+  "board": {
+    "nodes": [],
+    "connections": [],
+    "maxZ": 3
+  },
+  "vault": "",
+  "settings": {
+    "activeSessionId": ""
+  },
+  "notes": []
+}
